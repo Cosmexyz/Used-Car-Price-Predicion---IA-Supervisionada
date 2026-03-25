@@ -70,5 +70,5 @@ python main.py
 🔜 Etapa 2 — Análise exploratória
 
 # 👨‍💻 Autor
-Cosme Carvalho
-Estudante de Ciência da Computação
+Cosme Carvalho.
+Estudante de Ciência da Computação.
